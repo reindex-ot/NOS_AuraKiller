@@ -1,4 +1,4 @@
-# NOS AuraKiller
+# NOS Aura Killer
 ## Aura、自害しろ。
 「App Services」と「Mobile Services」って名乗っているNothing OS内のAuraをほぼ自害させる魔法だよ。<br>
 実際は**アプリの無効化**をMagiskモジュールでやっているだけだから再起動もいらないよ。
