@@ -3,7 +3,7 @@
 「App Services」と「Mobile Services」って名乗っているNothing OS内のAuraを自害させる魔法だよ。
 
 ## ネタはここまで
-モジュールのインストールでAura from Unityのパッケージをシステム内から消し去ります。<br>
+モジュールのインストールで[Aura from Unity](https://unity.com/ja/products/aura)のパッケージをシステム内から消し去ります。<br>
 ディレクトリ内に0バイトのapkを入れて元凶となっているパッケージを潰しています。
 
 App Servicesはミドル帯のモデルに存在し、Mobile ServicesはPhone(3)以降のハイエンドに含まれます。<br>
@@ -18,7 +18,7 @@ Mobile Servicesは、**Rakuten MobileのSIMを挿入する**ことでAura from U
 It's a magic spell that forces Aura — you know, the one that calls itself 'App Services' and 'Mobile Services' in Nothing OS — to kill itself.
 
 ## Alright, jokes over
-By installing the module, we completely remove the 'Aura from Unity' package from the system.<br>
+By installing the module, we completely remove the ['Aura from Unity'](https://unity.com/products/aura) package from the system.<br>
 We're replacing the original culprit package with a 0 byte APK in the directory to effectively neuter it.
 
 App Services is present in mid-range models, while Mobile Services is included in high-end devices starting from the Phone(3).<br>
