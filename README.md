@@ -10,4 +10,5 @@ App Servicesはミドル帯のモデルに存在し、Mobile ServicesはPhone(3)
 Mobile Servicesは、**Rakuten MobileのSIMを挿入する**ことでAura from Unityが発動します。そのSIMを入れなければ原則的に発動することはありません。
 
 ## 非rootの環境は
-バッチファイルを用意してあるのでadbを構築済みな環境で実行すれば自動で無効化します。
+バッチファイルを用意してあるのでadbを構築済みな環境で実行すれば自動で無効化します。<br>
+バッチはアプリを**無効化しているだけ**なのでAuraを一応自害させています。
