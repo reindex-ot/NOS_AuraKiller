@@ -1,2 +1,16 @@
-# NOS_AuraKiller
-Nothing OSのAuraをほぼ自害させる魔法だよ。
+# NOS AuraKiller
+## Aura、自害しろ。
+「App Services」と「Mobile Services」って名乗っているNothing OS内のAuraをほぼ自害させる魔法だよ。<br>
+実際は**アプリの無効化**をMagiskモジュールでやっているだけだから再起動もいらないよ。
+## 何でアンインストールの魔法じゃないんですか?
+それはね、アンインストールをすると再起動後に復活するからだよ。
+
+## ネタはここまで
+これはモジュールのインストールだけでAura from Unityのパッケージを自動で無効化します。<br>
+アンインストールにしたいところですが、それをやると再起動後にゾンビの如く復活するため、あえて無効化という手段を取っています。
+
+App Servicesは、ミドル帯のモデルに存在し、Mobile ServicesはPhone(3)以降のハイエンドに含まれます。<br>
+MobileServicesは、**Rakuten MobileのSIMを挿入する**ことでAura from Unityが発動します。
+
+## 非rootの環境は
+バッチファイルを用意してあるのでadbを構築済みな環境で実行すれば自動で無効化します。
