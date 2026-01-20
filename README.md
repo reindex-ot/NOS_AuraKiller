@@ -12,3 +12,18 @@ Mobile Servicesは、**Rakuten MobileのSIMを挿入する**ことでAura from U
 ## 非rootの環境は
 バッチファイルを用意してあるのでadbを構築済みな環境で実行すれば自動で無効化します。<br>
 バッチはアプリを**無効化しているだけ**なのでAuraを一応自害させています。
+
+## English
+## Aura, kill yourself.
+It's a magic spell that forces Aura — you know, the one that calls itself 'App Services' and 'Mobile Services' in Nothing OS — to kill itself.
+
+## Alright, jokes over
+By installing the module, we completely remove the 'Aura from Unity' package from the system.<br>
+We're replacing the original culprit package with a 0 byte APK in the directory to effectively neuter it.
+
+App Services is present in mid-range models, while Mobile Services is included in high-end devices starting from the Phone(3).<br>
+Mobile Services triggers Aura from Unity specifically when a **Rakuten Mobile SIM card is inserted.** Without that SIM, it generally does not activate.
+
+## non-root
+We've prepared a batch file that automatically disables the services when run in an ADB-ready environment.<br>
+Since it only disables the apps, you could say it makes Aura 'kill itself' functionally.
