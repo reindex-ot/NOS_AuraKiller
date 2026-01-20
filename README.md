@@ -11,7 +11,7 @@
 パッケージを有効化すれば元に戻りますし、モジュールを入れ直せば再度無効化されます。パッケージ探すの面倒だしね。
 
 App Servicesは、ミドル帯のモデルに存在し、Mobile ServicesはPhone(3)以降のハイエンドに含まれます。<br>
-MobileServicesは、**Rakuten MobileのSIMを挿入する**ことでAura from Unityが発動します。
+Mobile Servicesは、**Rakuten MobileのSIMを挿入する**ことでAura from Unityが発動します。そのSIMを入れなければ原則的に発動することはありません。
 
 ## 非rootの環境は
 バッチファイルを用意してあるのでadbを構築済みな環境で実行すれば自動で無効化します。
