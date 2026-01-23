@@ -1,5 +1,5 @@
 # NOS Aura Killer
-![AuraKiller](./AuraKiller.webp)
+![AuraKiller](./image.webp)
 ## Aura、自害しろ。
 「App Services」と「Mobile Services」って名乗っているNothing OS内の[Aura](https://dic.pixiv.net/a/%E3%82%A2%E3%82%A6%E3%83%A9%E3%80%81%E8%87%AA%E5%AE%B3%E3%81%97%E3%82%8D%E3%80%82)を自害させる魔法だよ。
 
