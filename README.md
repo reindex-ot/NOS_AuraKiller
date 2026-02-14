@@ -27,4 +27,4 @@ Mobile Services triggers Aura from Unity specifically when a **Rakuten Mobile SI
 
 ## non-root
 We've prepared a batch file that automatically disables the services when run in an ADB-ready environment.<br>
-Since it only disables the apps, you could say it makes Aura 'kill itself' functionally.
+Since it only disables the apps, you could say it makes Aura 'kill yourself' functionally.
